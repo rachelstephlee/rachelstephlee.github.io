@@ -12,6 +12,12 @@ $base-font-size: 14px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.7;
 
+h1{
+  font-weight: 300;
+  font-family: "Charter", sans-serif;
+}
+
+
 $spacing-unit: 30px;
 
 $text-color: #111;

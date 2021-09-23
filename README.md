@@ -9,50 +9,19 @@ Inspired by [dangrover.com](http://dangrover.com/). Current theme used at [eliot
 
 ![](/screenshot.png)
 
-### Installation
+## Notes to self
 
+Projects are added to the `_projects` folder. Blog posts are added to the `_posts` folder.
 
-The easiest solution is to [fork this repo](https://github.com/eliottvincent/bay/fork).
-If you want to start from a clean website, follow the steps bellow:
+To update software:
 
-Create a new Jekyll website:
-```
-jekyll new mysite
-```
+    bundle update
 
-Open `Gemfile` and replace the line:
-```
-gem "minima"
-```
-with:
-```
-gem "bay_jekyll_theme"
-```
+To preview locally:
 
-Open `_config.yml` and replace the line:
-```
-theme: minima
-```
-with:
-```
-theme: bay_jekyll_theme
-```
-or, for GitHub Pages:
-```
-remote_theme: eliottvincent/bay
-```
+    bundle exec jekyll serve --config _config.yml
 
-Finally, install the dependencies:
-```
-bundle install
-```
-
-and build the website!
-```
-jekyll serve
-```
-
-
+## information from Bay 
 The website will look somewhat empty at first. That's normal. Follow the next instructions to complete the header and footer components, and the home and blog pages.
 
 ### Header
