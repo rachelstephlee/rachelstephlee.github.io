@@ -33,8 +33,7 @@ B.S. Mathematical Computation Science **Stanford University** 2011-2015
 
 # **POSTERS AND PUBLICATIONS**
 
-COSYNE poster 
-
+**Explaining dopaminergic response heterogeneity via high-dimensional value function approximation.** Lee, R., Engelhard, B., Witten, I. B., & Daw, N. D. (2021). Poster at COSYNE 2021. 
 
 **Reconciling Heterogeneous Dopaminergic Responses with Reward Prediction Error Models** 
 Lee, R., Engelhard, B., Witten, I.B., Daw, N.D. (2019). 
@@ -58,9 +57,11 @@ Poster at CogSci 2014, Quebec City, Canada.
 
 ## **INVITED TALKS**
 
-Pavlovian Society\
-Bernstein Workshop\
-ODoherty Lab
+Pavlovian Society Annual Meeting (2021). Invited speaker for Symposium “The increasingly diverse role of midbrain dopamine neurons in reinforcement learning.” 
+
+Bernstein Conference (2021). Invited speaker and panelist for Workshop “Distributed Representation in RL From AI to Dopamine.”
+
+O’Doherty Lab, California Institute of Technology. (2021)
 
 ## **AWARDS AND GRANTS**
 
@@ -68,10 +69,10 @@ ODoherty Lab
 RLDM Student Travel Grant. 2019. \
 National Science Foundation Graduate Research Fellowship. 2019. \
 Center of Brain Minds and Machines Summer Course. 2018. \
-Bachelor’s degree awarded with Distinction (Top 15% of graduating class), 2015.\
-Computational and Systems Neuroscience Conference Undergraduate Travel Grant, 2015.\
-Stanford Undergraduate Research and Advising Major Grant, 2014.\
-Stanford Symbolic Systems Undergraduate Summer Research Grant, 2013.\
-Stanford Bio-X Undergraduate Summer Research Grant, 2013.\
-Stanford STEM Fellowship Nominee, 2013.\
+Bachelor’s degree awarded with Distinction (Top 15% of graduating class). 2015.\
+Computational and Systems Neuroscience Conference Undergraduate Travel Grant. 2015.\
+Stanford Undergraduate Research and Advising Major Grant. 2014.\
+Stanford Symbolic Systems Undergraduate Summer Research Grant. 2013.\
+Stanford Bio-X Undergraduate Summer Research Grant. 2013.\
+Stanford STEM Fellowship Nominee. 2013.
 

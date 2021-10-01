@@ -19,7 +19,11 @@ To update software:
 
 To preview locally:
 
-    bundle exec jekyll serve --config _config.yml
+     bundle exec jekyll serve --port 4001
+
+
+
+    --config _config.yml
 
 ## information from Bay 
 The website will look somewhat empty at first. That's normal. Follow the next instructions to complete the header and footer components, and the home and blog pages.

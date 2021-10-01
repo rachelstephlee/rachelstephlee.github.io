@@ -16,7 +16,7 @@ header:
     - name: Research
     - name: About
     - name: CV
-      slug: /assets/docs/cv_2020.pdf
+      slug: /assets/docs/cv_2021.pdf
 
 footer:
   show_powered_by: true
