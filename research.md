@@ -18,6 +18,7 @@ slug: /work
 I am a PhD candidate funded by NSFGRFP at [Princeton Neuroscience Institute](http://pni.princeton.edu/) working in the [Daw lab](https://dawlab.princeton.edu/) and [Witten lab](https://wittenlab.org/people/). My broad research interests are in Computational Cognitive Neuroscience, with a focus on modeling and theory. These days I work on Dopaminergic Models of Reinforcement Learning. 
 
 
+
 # **EDUCATION**
 
 
@@ -25,6 +26,7 @@ PhD.Candidate Neuroscience ([Daw Lab](https://dawlab.princeton.edu/ "daw lab web
 2017-*current*
 
 M.A. Neuroscience **Princeton University**
+
 B.S. Mathematical Computation Science **Stanford University** 2011-2015
 
 
