@@ -15,7 +15,8 @@ slug: /work
 #     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ---
-I am a PhD candidate funded by NSFGRFP at [Princeton Neuroscience Institute](http://pni.princeton.edu/) working in the [Daw lab](https://dawlab.princeton.edu/) and [Witten lab](https://wittenlab.org/people/). My broad research interests are in Computational Cognitive Neuroscience, with a focus on modeling and theory. These days I work on Dopaminergic Models of Reinforcement Learning. 
+I am a post-doc (Scientist I) at the [Allen Institute for Neural Dynamics](https://alleninstitute.org/division/neural-dynamics/) in Seattle, WA. My research focuses on building computational models to understand how neuromodulators individually or in conjunction regulate decision-making and learning. 
+
 
 
 
@@ -23,7 +24,7 @@ I am a PhD candidate funded by NSFGRFP at [Princeton Neuroscience Institute](htt
 
 
 PhD.Candidate Neuroscience ([Daw Lab](https://dawlab.princeton.edu/ "daw lab website ") and [Witten Lab](https://wittenlab.org/)), **Princeton University** 
-2017-*current*
+2017-2023
 
 M.A. Neuroscience **Princeton University**
 

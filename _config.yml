@@ -22,22 +22,22 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: rslee (at) princeton (dot) edu
-      link: mailto:rslee@princeton.edu
-    - name: Twitter
-      value: tweet @ me
-      link: http://twitter.com/rachel_s_l
-      username: "@rachel_s_l"
+      value: email me
+      link: mailto:rachel.lee@alleninstitute.org
+    - name: Bluesky
+      value: DM me @ Bluesky
+      link: https://bsky.app/profile/rachelee.bsky.social
+      username: "@rachelee.bsky.social"
   follow:
     - name: LinkedIn
       value: linkedin
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/rachleephd
       # hack so that the two follows appear below each other
     - name: empty 
       value: " "
     - name: GitHub
       value: github
-      link: http://github.com/YourGitHubUsername
+      link: http://github.com/rachelstephlee
 
 # Build settings
 markdown: kramdown
@@ -52,7 +52,7 @@ exclude:
   - .jekyll-cache/
   - feed.xml
   - gemfiles/
-  - Gemfile
+  - Gemfile 
   - Gemfile.lock
   - vendor/bundle/
   - vendor/cache/
